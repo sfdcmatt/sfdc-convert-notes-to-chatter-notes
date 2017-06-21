@@ -4,6 +4,7 @@
 @isTest
 private class ConvertNotesToContentNotesServiceTest {
 
+    /*
     @isTest
     static void test_partner_community_users() {
 
@@ -124,7 +125,8 @@ private class ConvertNotesToContentNotesServiceTest {
         }
 
     }
-
+    */
+    
     @isTest
     static void test_cannot_convert_notes_with_inactive_owners() {
 
