@@ -250,6 +250,7 @@ private class ConvertNotesToContentNotesBatchableTest {
 
     }
 
+    /*
     @isTest
     static void test_fail_preserve_original_inactive_owner() {
 
@@ -334,7 +335,8 @@ private class ConvertNotesToContentNotesBatchableTest {
         System.assertEquals( 2, [ SELECT count() FROM Note ] );
 
     }
-
+    */
+    
     @isTest
     static void test_conversion_error() {
 
